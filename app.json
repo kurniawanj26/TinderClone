@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7b318d68-7e7c-4505-b952-349a8aefef7b"
+      }
+    },
+    "owner": "kurniawan26"
   }
 }
